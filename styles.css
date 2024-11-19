@@ -1,0 +1,146 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #121212;
+    color: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.container {
+    background: #1e1e1e;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    width: 90%;
+    max-width: 600px;
+}
+
+/* Input and Labels */
+label {
+    font-size: 1.1rem;
+    color: #cfcfcf;
+    display: block;
+    margin-bottom: 10px;
+}
+
+textarea {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #3e3e3e;
+    border-radius: 8px;
+    background: #2e2e2e;
+    color: #e0e0e0;
+    font-size: 1rem;
+    resize: none;
+    margin-bottom: 20px;
+}
+
+textarea::placeholder {
+    color: #7a7a7a;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+#speedInput {
+    width: 100%;
+}
+
+#speedValue {
+    font-size: 1rem;
+    color: #ffffff;
+    min-width: 50px;
+    text-align: right;
+}
+
+/* Checkbox */
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.checkbox-label input {
+    display: none;
+}
+
+.checkbox-label .checkbox-custom {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+    margin-right: 10px;
+    display: inline-block;
+    position: relative;
+    transition: background 0.3s;
+}
+
+.checkbox-label input:checked + .checkbox-custom {
+    background: #ffffff;
+    border-color: #ffffff;
+}
+
+.checkbox-label input:checked + .checkbox-custom::after {
+    content: "";
+    position: absolute;
+    top: 4px;
+    left: 7px;
+    width: 6px;
+    height: 12px;
+    border: solid #121212;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+/* Buttons */
+.buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #121212;
+    background: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+}
+
+button:hover {
+    background: #d9d9d9;
+    transform: translateY(-2px);
+}
+
+button:active {
+    transform: translateY(0);
+}
+
+button:disabled {
+    background: #3e3e3e;
+    color: #a0a0a0;
+    cursor: not-allowed;
+}

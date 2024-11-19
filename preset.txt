@@ -1,0 +1,95 @@
+Business Basics.
+Business firm. An organization producing goods/services.
+#1 goal. Make a profit.
+Shirking. Avoiding work.
+Problem. Lowers productivity.
+Residual claimant. Motivates bosses by tying income to profits.
+
+Sole Proprietorship.
+Definition. Single-person business.
+Who runs. The owner.
+Taxes. Paid as personal income.
+Liability. No, liability is unlimited.
+
+Partnership.
+Definition. Business with 2+ owners.
+Taxes. Paid as personal income.
+Advantages. Easy start, shared skills.
+Disadvantages. Liability, conflicts.
+Limited partner. Invests but doesn’t manage.
+General partner. Manages total liability.
+Liability. General partners don’t have limited liability.
+
+Corporation.
+Definition. Legal business entity.
+Liability. Limited for owners.
+Advantages. Limited liability, easy funding.
+Disadvantages. Double taxes, regulations.
+Stock. Ownership share.
+Stockholder reason. Profit.
+Make money. Dividends, selling stocks.
+Stockholder liability. Limited to investment.
+Why sell stocks. Raise funds.
+
+Financial Terms.
+Assets. Resources owned by a business.
+Bond. Loan to a business/government.
+Coupon rate. Bond interest.
+Face value. Original bond amount.
+Maturity date. When a bond is repaid.
+Payback order. Bondholders before stockholders.
+
+Business Growth.
+Corporation advantages. Raise funds, limited liability.
+“Goes public.” Sells shares on stock market.
+Runs corporation. Board of directors, managers.
+Franchise. Licensed business model.
+Franchisor. Grants franchise rights.
+Franchisee. Buys franchise rights.
+Why franchisor. Expand business.
+Profit vs revenue. Profit is revenue minus costs.
+Costs. Fixed, variable.
+Most revenue. Corporations.
+Location choice. Costs, customers, regulations.
+Asymmetric info. One side knows more; harms trust.
+Milton Friedman. Business = profit focus.
+Ralph Nader. Business = social responsibility.
+
+Financial Statements.
+Income statement. Tracks income, costs, profit.
+Depreciation. Value loss; affects capital.
+Net profit. After taxes and costs.
+Reinvest profits. Expand business.
+Outside funding. Loans, stocks, bonds, investors.
+
+Mergers and Acquisitions.
+Purpose. Growth, efficiency.
+Horizontal merger. Same industry (e.g., Coke + Pepsi).
+Vertical merger. Supply chain (e.g., car maker + tire supplier).
+Acquisitions. Expand or reduce competition.
+
+Business Types.
+Multinational corp. Operates in multiple countries.
+Conglomerate. Owns unrelated businesses.
+Example. Procter & Gamble.
+Cooperative. Member-owned business.
+Non-profit. Goal isn’t profit but service.
+
+Accounting Basics.
+Profit formula. Revenue - Costs.
+Accounting vs economic profit. Economic includes opportunity cost.
+Revenue vs profit. Revenue is total sales; profit subtracts costs.
+Goal. Maximize profit.
+
+Production Terms.
+Variable input. Changes with output (e.g., labor).
+Fixed input. Doesn’t change (e.g., rent).
+Fixed vs variable. Variable based on production level.
+Production schedule. Shows output levels.
+Marginal cost. Extra production cost.
+TP/TO. Total product/output.
+TR formula. Price × Quantity.
+TC formula. Fixed + Variable costs.
+Marginal revenue formula. Change in TR divided by Change in Quantity.
+Marginal product of labor. Output from one more worker.
+Diminishing returns. Output rises slower due to resource limits.
